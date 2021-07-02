@@ -1,10 +1,3 @@
-/*
- * circularBuffer.h
- *
- *  Created on: 16.03.2018
- *      Author: Mujahid Abbas
- */
-
 #ifndef CIRCULARBUFFER_H_
 #define CIRCULARBUFFER_H_
 
